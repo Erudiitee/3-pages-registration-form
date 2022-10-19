@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    margin: 0px;
+    background: bisque;
+    box-sizing: border-box;
+}
+form, header {
+    width: 80%;
+    margin: auto;
+}
+p {
+    margin: 10px;
+    font-size: 20px;
+}
+
+input[type=text], input[type=email], input[type=password] {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+input[type=tel], input[type=date], input[type=color], input[type=submit]{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
